@@ -1,0 +1,25 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: beige;
+}
+
+.title {
+  color: brown;
+}
+
+.list {
+  list-style-type: square;
+}
+
+/* Recipies Page */
+#recipe {
+  text-align: center;
+}
+
+.images {
+  text-align: center;
+}
+
+.steps {
+  list-style-type: decimal;
+}
